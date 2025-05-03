@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-03T18:04:23 IST" name="Default suite" finished-at="2025-05-03T18:04:27 IST" duration-ms="4054">
+    <groups>
+    </groups>
+    <test started-at="2025-05-03T18:04:23 IST" name="Default test" finished-at="2025-05-03T18:04:27 IST" duration-ms="4054">
+      <class name="api.test.ReqResAPITests">
+        <test-method signature="getUserTest()[pri:1, instance:api.test.ReqResAPITests@368247b9]" started-at="2025-05-03T18:04:23 IST" name="getUserTest" finished-at="2025-05-03T18:04:25 IST" duration-ms="2312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserTest -->
+        <test-method signature="postUserTest()[pri:2, instance:api.test.ReqResAPITests@368247b9]" started-at="2025-05-03T18:04:25 IST" name="postUserTest" finished-at="2025-05-03T18:04:26 IST" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUserTest -->
+        <test-method signature="putUserTest()[pri:3, instance:api.test.ReqResAPITests@368247b9]" started-at="2025-05-03T18:04:26 IST" name="putUserTest" finished-at="2025-05-03T18:04:27 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putUserTest -->
+        <test-method signature="deleteUserTest()[pri:4, instance:api.test.ReqResAPITests@368247b9]" started-at="2025-05-03T18:04:27 IST" name="deleteUserTest" finished-at="2025-05-03T18:04:27 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- api.test.ReqResAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
